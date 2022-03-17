@@ -14,6 +14,7 @@ Calling new style custom js keyword
     get text    h1    ==    Login Page
     myNewStyleFunkyKeyword    h1
     get text    h1    ==    Funk yeah again!
+    My New Style Funky Keyword    selector=sa
 
 Calling custom js keyword with default value
     New Page    ${LOGIN_URL}
